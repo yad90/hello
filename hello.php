@@ -3,9 +3,12 @@
 
 echo "I'm Hungry!";
 
-php function() {
+function hello() {
 
 	echo "This is my first php function.";
 }
+
+
+echo hello();
 
  ?>
