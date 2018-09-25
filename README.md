@@ -1,2 +1,2 @@
 # hello
-Teaching Basic
+Teaching Basic of basic git
