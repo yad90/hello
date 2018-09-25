@@ -15,6 +15,4 @@ echo hello();
 echo "All done!";
 
 
-all ok
-
  ?>
