@@ -11,4 +11,8 @@ function hello() {
 
 echo hello();
 
+
+echo "All done!";
+
+
  ?>
